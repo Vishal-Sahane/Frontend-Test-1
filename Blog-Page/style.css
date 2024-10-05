@@ -1,0 +1,31 @@
+#upperbox{
+    display: flex;
+    background-color: purple;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  
+}
+
+
+#firstbox{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+#secondbox{
+    display: flex;
+    justify-content:start;
+
+    
+    
+}
+#lowerbox{
+    display: flex;
+    background-color: purple;
+    color: aliceblue;
+    justify-content: center;
+}
